@@ -1,0 +1,7 @@
+name: "misterpororos-musics"
+displayName: "Misterpororo's Musics"
+author: "Misterpororo & WantechFan"
+description: "[yellow[]][Insert description by changing this in mod.hjson file][[]]"
+minGameVersion: "160"
+version: "[insert version number]"
+hidden: true
